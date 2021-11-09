@@ -119,5 +119,6 @@ public class SpringBootMain {
         System.out.println("I am hot-fix2");
         System.out.println("IDEA push new code!");
         System.out.println("GitHub code new!");
+        System.out.println("芜湖"); 
     }
 }
