@@ -115,5 +115,6 @@ public class SpringBootMain {
             System.out.println("key = " + key + "<--->" + "value = " + value);
         }
         System.out.println("I am hot-fix");
+        System.out.println("I am master");
     }
 }
