@@ -1,0 +1,28 @@
+person:
+  boss: false
+  user-name: 芜湖
+  birth: 2021/10/10 20:03:00
+  age: 23
+  interests: [篮球,足球]
+  animal:
+    - Tom
+    - Jerry
+  score:
+    english:
+      first: 30
+      second: 40
+      third: 50
+    math: [120,130,135]
+    chinese: {first: 120,second: 130}
+  salarys: [3000,4000,5000]
+  all-pets:
+    sick:
+      - {name: Tom,weight: 46}
+      - {name: Jerry,weight: 55}
+    health: [
+      {name: Michael,weight: 66},
+      {name: Jim,weight: 33}
+    ]
+  pet:
+    name: Jimi
+    weight: 44

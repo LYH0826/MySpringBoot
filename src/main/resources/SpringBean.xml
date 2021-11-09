@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="springDog" class="boot.bean.Dog">
+        <property name="name" value="大黄" />
+        <property name="age" value="2" />
+    </bean>
+
+    <bean id="springCat" class="boot.bean.Cat">
+        <property name="name" value="小喵" />
+        <property name="age" value="3" />
+    </bean>
+</beans>
